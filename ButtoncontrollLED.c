@@ -1,3 +1,4 @@
+//set crystal speed at 8mhz
 void main() {
 
 
